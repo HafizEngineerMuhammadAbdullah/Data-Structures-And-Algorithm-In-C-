@@ -3,6 +3,17 @@
 A comprehensive collection of **Data Structures, Algorithms, C++ STL, and LeetCode solutions** implemented in **C++** as part of my learning journey.
 
 This repository serves as a personal DSA knowledge base, interview preparation resource, and problem-solving portfolio.
+## 📖 About This Repository
+
+This repository is dedicated to learning and practicing:
+
+* Data Structures
+* Algorithms
+* Problem Solving
+* Competitive Programming Concepts
+* Interview Preparation
+
+All programs are written in **C++** with a focus on understanding concepts, optimizing solutions, and improving coding skills.
 
 ---
 
@@ -204,23 +215,9 @@ Each solution focuses on:
 🔄 Dynamic Programming
 
 🚀 More topics coming soon...
-# 🚀 Data Structures and Algorithms in C++
-
-A comprehensive collection of **Data Structures and Algorithms (DSA)** implemented in **C++** as part of my learning journey. This repository contains fundamental data structures, algorithm implementations, and coding problem solutions to strengthen problem-solving and programming skills.
 
 ---
 
-## 📖 About This Repository
-
-This repository is dedicated to learning and practicing:
-
-* Data Structures
-* Algorithms
-* Problem Solving
-* Competitive Programming Concepts
-* Interview Preparation
-
-All programs are written in **C++** with a focus on understanding concepts, optimizing solutions, and improving coding skills.
 
 ### 🧩 Problem Solving
 
